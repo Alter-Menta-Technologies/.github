@@ -27,6 +27,7 @@ Nucleus produces cryptographically signed certificates, deterministic proof pack
 
 Not a linter. Not a scanner. The layer above your entire security stack that makes everything else auditable.
 
+→ [Full technical documentation](https://github.com/Alter-Menta-Technologies/nucleus-verify)
 ---
 
 ## Engine quality
